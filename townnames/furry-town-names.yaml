@@ -3,14 +3,688 @@ id: 0
 mainset:
 - names:
   - name: 'San '
-    probability: 1
+    probability: 40
   - name: 'Mt. '
+    probability: 40
+  - name: ' '
+    probability: 200
+  - name: 'St. '
+    probability: 40
+  - name: 'Port '
+    probability: 40
+  - name: 'Little '
+    probability: 40
+  - name: 'Big '
+    probability: 40
+  - name: 'Las '
+    probability: 40
+  - name: 'Neo '
+    probability: 40
+  - name: 'Fort '
+    probability: 40
+  - name: 'New '
+    probability: 40
+  - name: 'Great '
+    probability: 40
+  - name: 'Gay '
+    probability: 10
+  - name: 'Bi '
+    probability: 10
+  - name: 'Trans '
+    probability: 10
+  - name: 'Queer '
+    probability: 10
+  - name: 'Inflatable '
+    probability: 1
+  - name: 'Pregnant '
+    probability: 1
+  - name: 'Bred '
+    probability: 1
+  - name: 'Latex '
+    probability: 1
+  - name: 'Eldritch '
     probability: 1
 - names:
   - name: Alien
     probability: 1
+  - name: Alligator
+    probability: 1
+  - name: Alpaca
+    probability: 1
+  - name: Amphibian
+    probability: 1
+  - name: Anteater
+    probability: 1
+  - name: Antelope
+    probability: 1
+  - name: Anthropod
+    probability: 1
+  - name: Ape
+    probability: 1
+  - name: Arachnid
+    probability: 1
+  - name: Arcanine
+    probability: 1
+  - name: Argonian
+    probability: 1
+  - name: Arthropod
+    probability: 1
+  - name: Audino
+    probability: 1
+  - name: Avian
+    probability: 1
+  - name: Axolotl
+    probability: 1
+  - name: Bat
+    probability: 1
+  - name: Badger
+    probability: 1
+  - name: Bandicoot
+    probability: 1
+  - name: Beagle
+    probability: 1
+  - name: Bear
+    probability: 1
+  - name: Beaver
+    probability: 1
+  - name: Bird
+    probability: 1
+  - name: Blaziken
+    probability: 1
+  - name: Boar
+    probability: 1
+  - name: Bovid
+    probability: 1
+  - name: Bovine
+    probability: 1
+  - name: Braixen
+    probability: 1
+  - name: Bull
+    probability: 1
+  - name: Bun
+    probability: 10
+  - name: Bunny
+    probability: 10
+  - name: Bnuuy
+    probability: 10
+  - name: Burmecian
+    probability: 1
+  - name: Calico
+    probability: 1
+  - name: Canid
+    probability: 1
+  - name: Canine
+    probability: 1
+  - name: Canis
+    probability: 1
+  - name: Caprico
+    probability: 1
+  - name: Caprine
+    probability: 1
+  - name: Caracal
+    probability: 1
+  - name: Cat
+    probability: 1
+  - name: Cattle
+    probability: 1
+  - name: Centaur
+    probability: 1
+  - name: Chameleon
+    probability: 1
+  - name: Charizard
+    probability: 1
+  - name: Charmander
+    probability: 1
+  - name: Cheetah
+    probability: 1
+  - name: Chicken
+    probability: 1
+  - name: Chimera
+    probability: 1
+  - name: Cinderace
+    probability: 1
+  - name: Crocodile
+    probability: 1
+  - name: Crux
+    probability: 10
+  - name: Corgi
+    probability: 1
+  - name: Cougar
+    probability: 1
+  - name: Cow
+    probability: 1
+  - name: Coyote
+    probability: 1
+  - name: Dalmation
+    probability: 1
+  - name: Deathclaw
+    probability: 1
+  - name: Deer
+    probability: 1
+  - name: Demon
+    probability: 1
+  - name: Derg
+    probability: 1
+  - name: Dewott
+    probability: 1
+  - name: Digimon
+    probability: 1
+  - name: Dino
+    probability: 1
+  - name: Dinosaur
+    probability: 1
+  - name: Dobermann
+    probability: 1
+  - name: Dog
+    probability: 1
+  - name: Doggy
+    probability: 1
+  - name: Dolphin
+    probability: 1
+  - name: Donkey
+    probability: 1
+  - name: Dragon
+    probability: 1
+  - name: Draenei
+    probability: 1
+  - name: Duck
+    probability: 1
+  - name: Eagle
+    probability: 1
+  - name: Eevee
+    probability: 1
+  - name: Egg
+    probability: 1
+  - name: Espeon
+    probability: 1
+  - name: Equid
+    probability: 1
+  - name: Equine
+    probability: 1
+  - name: Fag
+    probability: 1
+  - name: Faggot
+    probability: 1
+  - name: Faggy
+    probability: 1
+  - name: Felid
+    probability: 1
+  - name: Feline
+    probability: 1
+  - name: Felis
+    probability: 1
+  - name: Falken
+    probability: 1
+  - name: Felyne
+    probability: 1
+  - name: Fennec
+    probability: 1
+  - name: Feraligatr
+    probability: 1
+  - name: Ferret
+    probability: 1
+  - name: Fish
+    probability: 1
+  - name: Flamedramon
+    probability: 1
+  - name: Flareon
+    probability: 1
+  - name: Floatzel
+    probability: 1
+  - name: Fox
+    probability: 1
+  - name: Foxy
+    probability: 1
+  - name: Frog
+    probability: 1
+  - name: Garchomp
+    probability: 1
+  - name: Gardevoir
+    probability: 1
+  - name: Gatomon
+    probability: 1
+  - name: Gazelle
+    probability: 1
+  - name: Gengar
+    probability: 1
+  - name: Giraffe
+    probability: 1
+  - name: Glaceon
+    probability: 1
+  - name: Goat
+    probability: 1
+  - name: Gorilla
+    probability: 1
+  - name: Goo
+    probability: 1
+  - name: Goober
+    probability: 1
+  - name: Goodra
+    probability: 1
+  - name: Grizzly
+    probability: 1
+  - name: Gryphon
+    probability: 1
+  - name: Guilmon
+    probability: 1
+  - name: Gulonine
+    probability: 1
+  - name: Hairless Cat
+    probability: 1
+  - name: Hamster
+    probability: 1
+  - name: Hare
+    probability: 1
+  - name: Harpy
+    probability: 1
+  - name: Hedgehog
+    probability: 1
+  - name: Hellhound
+    probability: 1
+  - name: Hippo
+    probability: 1
+  - name: Honse
+    probability: 1
+  - name: Horse
+    probability: 1
+  - name: Houndoom
+    probability: 1
+  - name: Husky
+    probability: 1
+  - name: Hyena
+    probability: 1
+  - name: Imp
+    probability: 1
+  - name: Incineroar
+    probability: 1
+  - name: Insect
+    probability: 1
+  - name: Inteleon
+    probability: 1
+  - name: Iuganer
+    probability: 1
+  - name: Jackal
+    probability: 1
+  - name: Jackalope
+    probability: 1
+  - name: Jaguar
+    probability: 1
+  - name: Kaiju
+    probability: 1
+  - name: Kangaroo
+    probability: 1
+  - name: Keidran
+    probability: 1
+  - name: Khajit
+    probability: 1
+  - name: Kirlia
+    probability: 1
+  - name: Koopa
+    probability: 1
+  - name: Labrador
+    probability: 1
+  - name: Lagomorph
+    probability: 1
+  - name: Lemur
+    probability: 1
+  - name: Leopard
+    probability: 1
+  - name: Leporid
+    probability: 1
+  - name: Lion
+    probability: 1
+  - name: Lizard
+    probability: 1
+  - name: Lombax
+    probability: 1
+  - name: Lopunny
+    probability: 1
+  - name: Lucario
+    probability: 1
+  - name: Luxray
+    probability: 1
+  - name: Lycanroc
+    probability: 1
+  - name: Lynian
+    probability: 1
+  - name: Lynx
+    probability: 1
+  - name: Machoke
+    probability: 1
+  - name: Malo
+    probability: 1
+  - name: Mammal
+    probability: 1
+  - name: Marsupial
+    probability: 1
+  - name: Marten
+    probability: 1
+  - name: Mastiff
+    probability: 1
+  - name: Mawile
+    probability: 1
+  - name: Meercat
+    probability: 1
+  - name: Meowstic
+    probability: 1
+  - name: Meowth
+    probability: 1
+  - name: Mephit
+    probability: 1
+  - name: Mewtwo
+    probability: 1
+  - name: Mink
+    probability: 1
+  - name: Minotaur
+    probability: 1
+  - name: Mollusk
+    probability: 1
+  - name: Monitor
+    probability: 1
+  - name: Monkey
+    probability: 1
+  - name: Mongoose
+    probability: 1
+  - name: Mouse
+    probability: 1
+  - name: Murid
+    probability: 1
+  - name: Murine
+    probability: 1
+  - name: Musky
+    probability: 1
+  - name: Mustelid
+    probability: 1
+  - name: Naga
+    probability: 1
+  - name: Nargacuga
+    probability: 1
+  - name: Midoqueen
+    probability: 1
+  - name: Ninetales
+    probability: 1
+  - name: Orca
+    probability: 1
+  - name: Otter
+    probability: 1
+  - name: Owl
+    probability: 1
+  - name: OwO
+    probability: 1
+  - name: Pal
+    probability: 1
+  - name: Panda
+    probability: 1
+  - name: Pantherine
+    probability: 1
+  - name: Parrot
+    probability: 1
+  - name: Peafowl
+    probability: 1
+  - name: Pegasus
+    probability: 1
+  - name: Pheonix
+    probability: 1
+  - name: Pichu
+    probability: 1
+  - name: Pikachu
+    probability: 1
+  - name: Pig
+    probability: 1
+  - name: Poke
+    probability: 1
+  - name: Pony
+    probability: 1
+  - name: Poodle
+    probability: 1
+  - name: Porky
+    probability: 1
+  - name: Possum
+    probability: 1
+  - name: Protogen
+    probability: 1
+  - name: Pyrocyonid
+    probability: 1
+  - name: Qualiva
+    probability: 1
+  - name: Rabbit
+    probability: 10
+  - name: Raccoon
+    probability: 1
+  - name: Ram
+    probability: 1
+  - name: Rat
+    probability: 1
+  - name: Red Panda
+    probability: 1
+  - name: Reindeer
+    probability: 1
+  - name: Renamon
+    probability: 1
+  - name: Reptile
+    probability: 1
+  - name: Rhino
+    probability: 1
+  - name: Riolu
+    probability: 1
+  - name: Rodent
+    probability: 1
+  - name: Rottweiler
+    probability: 1
+  - name: Salamander
+    probability: 1
+  - name: Saluki
+    probability: 1
+  - name: Samoyed
+    probability: 1
+  - name: Samurott
+    probability: 1
+  - name: Sandler
+    probability: 1
+  - name: Sergal
+    probability: 1
+  - name: Satyr
+    probability: 1
+  - name: Scalie
+    probability: 1
+  - name: Scorbunny
+    probability: 1
+  - name: Shark
+    probability: 1
+  - name: Sheep
+    probability: 1
+  - name: Sheepdog
+    probability: 1
+  - name: Shiba
+    probability: 1
+  - name: Shinx
+    probability: 1
+  - name: Siamese
+    probability: 1
+  - name: Skaven
+    probability: 1
+  - name: Skunk
+    probability: 1
+  - name: Slime
+    probability: 1
+  - name: Slimy
+    probability: 1
+  - name: Slug
+    probability: 1
+  - name: Slugcat
+    probability: 1
+  - name: Snail
+    probability: 1
+  - name: Snake
+    probability: 1
   - name: Snep
     probability: 10
+  - name: Snow Leopard
+    probability: 10
+  - name: Sphinx
+    probability: 1
+  - name: Spider
+    probability: 1
+  - name: Sprigatito
+    probability: 1
+  - name: Spirit
+    probability: 1
+  - name: Stoat
+    probability: 1
+  - name: Succubus
+    probability: 1
+  - name: Sylveon
+    probability: 1
+  - name: Tabby
+    probability: 1
+  - name: Tanuki
+    probability: 1
+  - name: Taur
+    probability: 1
+  - name: Terrier
+    probability: 1
+  - name: Tiger
+    probability: 1
+  - name: Tortoise
+    probability: 1
+  - name: Turtle
+    probability: 1
+  - name: Typhlosion
+    probability: 1
+  - name: Umbreon
+    probability: 1
+  - name: Unicorn
+    probability: 1
+  - name: Ursa
+    probability: 1
+  - name: UwU
+    probability: 1
+  - name: Vaporeon
+    probability: 1
+  - name: Veemon
+    probability: 1
+  - name: Viper
+    probability: 1
+  - name: Weasel
+    probability: 1
+  - name: Wolf
+    probability: 1
+  - name: Wolfdog
+    probability: 1
+  - name: Wyvern
+    probability: 1
+  - name: Xenarthran
+    probability: 1
+  - name: Xenomorph
+    probability: 1
+  - name: Yokai
+    probability: 1
+  - name: Yoshi
+    probability: 1
+  - name: Zangoose
+    probability: 1
+  - name: Zebra
+    probability: 1
+  - name: Zeraora
+    probability: 1
+  - name: Zora
+    probability: 1
+  - name: Zoroark
+    probability: 1
+  - name: Zorua
+    probability: 1
+- names:
+  - name: ville
+    probability: 1
+  - name: ton
+    probability: 1
+  - name: burg
+    probability: 1
+  - name: ford
+    probability: 1
+  - name: land
+    probability: 1
+  - name: bury
+    probability: 1
+  - name: ham
+    probability: 1
+  - name: stead
+    probability: 1
+  - name: mouth
+    probability: 1
+  - name: by
+    probability: 1
+  - name: worth
+    probability: 1
+  - name: sex
+    probability: 1
+  - name: balls
+    probability: 1
+  - name: boro
+    probability: 1
+  - name: ia
+    probability: 1
+  - name: son
+    probability: 1
+  - name: homa
+    probability: 1
+  - name: grove
+    probability: 1
+  - name: born
+    probability: 1
+  - name: lee
+    probability: 1
+  - name: ing
+    probability: 1
+  - name: dale
+    probability: 1
+  - name: stone
+    probability: 1
+  - name: way
+    probability: 1
+  - name: york
+    probability: 1
+  - name: shire
+    probability: 1
+- names:
+  - name: ' '
+    probability: 70
+  - name: ' Hills'
+    probability: 1
+  - name: ' on Sea'
+    probability: 1
+  - name: ' by the Lake'
+    probability: 1
+  - name: ' Port'
+    probability: 1
+  - name: ' Meadows'
+    probability: 1
+  - name: ' Fields'
+    probability: 1
+  - name: ' Plains'
+    probability: 1
+  - name: ' Beach'
+    probability: 1
+  - name: ' Bay'
+    probability: 1
+  - name: ' Lake'
+    probability: 1
+  - name: ' Hole'
+    probability: 1
+  - name: ' Forest'
+    probability: 1
+  - name: ' Ex'
+    probability: 1
+  - name: ' River'
+    probability: 1
+  - name: ' Township'
+    probability: 1
+  - name: ' City'
+    probability: 1
+  - name: ' Ranch'
+    probability: 1
+  - name: ' County'
+    probability: 1
 name: Furry Town Names
 source: null
 subsets: []

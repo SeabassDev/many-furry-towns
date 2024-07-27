@@ -1,0 +1,16 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: 'San '
+    probability: 1
+  - name: 'Mt. '
+    probability: 1
+- names:
+  - name: Alien
+    probability: 1
+  - name: Snep
+    probability: 10
+name: test
+source: null
+subsets: []
